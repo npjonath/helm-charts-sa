@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  crossbario:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-11-24T20:42:39.823457+01:00
+    description: A Helm chart for Kubernetes
+    digest: cfea46c5058038d6bd32d3ce20f35c5869482c8fd807fadf3d0e5bf5a12088fa
+    name: crossbario
+    urls:
+    - https://npjonath.github.io/helm-chart-sa/crossbario-0.1.0.tgz
+    version: 0.1.0
+  strapi:
+  - apiVersion: v1
+    appVersion: 3.0.0-alpha.14.6
+    created: 2018-11-24T20:42:39.823667+01:00
+    description: A Helm chart for Strapi
+    digest: 5bb396826dfe4be4f0bf0ca3e705d6bfce33a97263411e2c6048d0650a9fc9c9
+    name: strapi
+    urls:
+    - https://npjonath.github.io/helm-chart-sa/strapi-3.0.0.tgz
+    version: 3.0.0
+generated: 2018-11-24T20:42:39.823054+01:00

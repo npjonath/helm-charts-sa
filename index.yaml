@@ -3,9 +3,9 @@ entries:
   crossbario:
   - apiVersion: v1
     appVersion: 18.11.2
-    created: 2018-11-25T14:41:17.074169+01:00
+    created: 2018-11-25T14:53:06.0432+01:00
     description: A Crossbar.io Helm chart for Kubernetes
-    digest: 13d9f4cb65474b378c227731c549399c287bb31a02798da887e99fa7899d5704
+    digest: 4942a17792bd9c4526d538d7e0826af765a60774809a321a03105c8ddee3da88
     icon: https://crossbar.io/static/img/gen/crossbar_icon_and_text_vectorized_yellow_icon.svg
     name: crossbario
     urls:
@@ -14,12 +14,12 @@ entries:
   strapi:
   - apiVersion: v1
     appVersion: 3.0.0
-    created: 2018-11-25T14:41:17.074392+01:00
+    created: 2018-11-25T14:53:06.043435+01:00
     description: A Helm chart for Strapi
-    digest: 9371f48507038d325340de8f6e6f983fed7cabe1ab67bebff1438574d431ef00
+    digest: 9a2dcc2a1ee436f00cac89adc7910d2e870b3b9a0d19399e5e5bcc9a4358d8ba
     icon: https://strapi.io/assets/images/logo.png
     name: strapi
     urls:
     - https://npjonath.github.io/helm-chart-sa/strapi-3.0.3.tgz
     version: 3.0.3
-generated: 2018-11-25T14:41:17.073771+01:00
+generated: 2018-11-25T14:53:06.042796+01:00

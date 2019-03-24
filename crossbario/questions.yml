@@ -1,0 +1,22 @@
+categories:
+  - CMS
+questions:
+  - variable: persistence.enabled
+default: "false"
+description: "Enable persistent volume for Crossbar"
+type: boolean
+required: true
+label: WordPress Persistent Volume Enabled
+show_subquestion_if: true
+group: "Crossbar Settings"
+subquestions:
+  - variable: persistence.size
+      default: "10Gi"
+      description: "Crossbar Persistent Volume Size"
+      type: string
+      label: Crossbar Volume Size
+  - variable: persistence.storageClass
+      default: ""
+      description: "If undefined or null, uses the default StorageClass. Default to null"
+      type: storageclass
+      label: Default StorageClass for Crossbar

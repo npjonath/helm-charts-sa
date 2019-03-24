@@ -1,6 +1,0 @@
-apiVersion: v1
-appVersion: 3.0.0
-description: A Helm chart for Strapi
-icon: https://strapi.io/assets/images/logo.png
-name: strapi
-version: 3.0.3
